@@ -1,2 +1,2 @@
 # Disaster-Response-Model
-![maxresdefault](https://user-images.githubusercontent.com/39211262/80916635-9940b200-8d77-11ea-93a3-38ebd53bad0b.jpg)
+![Disaster-Preparedness-and-management-842x421](https://user-images.githubusercontent.com/39211262/80916693-f89ec200-8d77-11ea-983f-887d0af9bcd7.jpg)

@@ -1,6 +1,15 @@
 # Disaster-Response-Model
 ![Disaster-Preparedness-and-management-842x421](https://user-images.githubusercontent.com/39211262/80916693-f89ec200-8d77-11ea-983f-887d0af9bcd7.jpg)
 
-# Overview 
 
-Your project I build a web app where an emergency worker or NGOs can input a new message and get classification results in several categories. The web app will also display visualizations of the data. In this project,I used disaster data from [Figure Eight](https://en.wikipedia.org/wiki/Figure_Eight_Inc.) to build a model for an API that classifies disaster messages which implemented in the web app.
+## 1. Overview
+
+In this project, I'll apply data engineering to analyze disaster data from <a href="https://www.figure-eight.com/" target="_blank">Figure Eight</a> to build a model for an API that classifies disaster messages.
+
+_data_ directory contains a data set which are real messages that were sent during disaster events. I will be creating a machine learning pipeline to categorize these events so that appropriate disaster relief agency can be reached out for help.
+
+This project will include a web app where an emergency worker can input a new message and get classification results in several categories. The web app will also display visualizations of the data.
+
+[Here](#eg) are a few screenshots of the web app.
+
+<a id='components'></a>

@@ -56,6 +56,10 @@ This project will include a web app where an emergency worker can input a new me
     `python run.py`
 
 3. Go to http://0.0.0.0:3001/
+
+## 4. Conclusion
+
+Some information about training data set as seen on the main page of the web app.
   
 ## 5. Credits and Acknowledgements
 

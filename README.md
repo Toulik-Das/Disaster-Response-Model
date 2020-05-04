@@ -43,6 +43,7 @@ This project will include a web app where an emergency worker can input a new me
   Running `python run.py` **from app directory** will start the web app where users can enter their query,     i.e., a request message   sent during a natural disaster.
 ![Screenshot (362)](https://user-images.githubusercontent.com/39211262/80982526-138d3700-8e49-11ea-82b4-00e986bb14d3.png)
 
+![disaster-response-project2](https://user-images.githubusercontent.com/39211262/80982764-6109a400-8e49-11ea-86e3-4b4b4d79528e.png)
 ## 4. Compilation
    
  1. Run the following commands in the project's root directory to set up your database and model.

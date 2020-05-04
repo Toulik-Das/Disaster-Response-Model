@@ -10,6 +10,9 @@ _data_ directory contains a data set which are real messages that were sent duri
 
 This project will include a web app where an emergency worker can input a new message and get classification results in several categories. The web app will also display visualizations of the data.
 
-[Here](#eg) are a few screenshots of the web app.
-
-<a id='components'></a>
+## Required libraries
+- nltk 3.5
+- numpy 1.18.3 
+- pandas 1.0.3
+- scikit-learn 0.22.2
+- sqlalchemy 1.3.16

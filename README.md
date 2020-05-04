@@ -1,5 +1,5 @@
 # Disaster-Response-Model
-![Disaster-Preparedness-and-management-842x421](https://user-images.githubusercontent.com/39211262/80916693-f89ec200-8d77-11ea-983f-887d0af9bcd7.jpg)
+![1_C51FyB82wHdzRTgEIsYKPw](https://user-images.githubusercontent.com/39211262/80963993-b2a43580-8e2d-11ea-8bee-34232ab64672.jpeg)
 
 
 ## 1. Overview

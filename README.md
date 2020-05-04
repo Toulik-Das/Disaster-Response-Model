@@ -16,6 +16,7 @@ This project will include a web app where an emergency worker can input a new me
 - pandas 1.0.3
 - scikit-learn 0.22.2
 - sqlalchemy 1.3.16
+- flask 1.1.2
 
 ## 3. Project Components
    
@@ -36,5 +37,9 @@ This project will include a web app where an emergency worker can input a new me
   - Trains and tunes a model using GridSearchCV
   - Outputs result on the test set
   - Exports the final model as a pickle file
+  
+  ### 2.3. Flask Web App
+
+  Running `python run.py` **from app directory** will start the web app in `http://0.0.0.0:3001/` where users can enter their query,     i.e., a request message sent during a natural disaster.
    
    

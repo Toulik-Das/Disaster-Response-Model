@@ -60,4 +60,4 @@ This project will include a web app where an emergency worker can input a new me
   
 ## 5. Credits and Acknowledgements
 
-Thanks <a href="https://www.udacity.com" target="_blank">Udacity</a> for letting me use their logo as favicon for this web app and for all the supports. Also thanks to <a href="https://www.figure-eight.com/" target="_blank">Figure Eight</a> for providing the disaster dataset.
+Thanks <a href="https://www.udacity.com" target="_blank">Udacity</a> for all the supports. Also thanks to <a href="https://www.ibm.com/in-en/watson/products-services" target="_blank">Figure Eight</a> for providing the disaster dataset.
